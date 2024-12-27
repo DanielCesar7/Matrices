@@ -24,17 +24,17 @@ Este proyecto es una aplicación en Java que permite generar y manipular matrice
    - Impresión legible de las matrices generadas.
    - Visualización de la matriz con la mayor sumatoria y cálculos adicionales basados en posiciones dentro de la matriz.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Java: Lenguaje principal para la implementación de la lógica del programa.
 - Consola: Entrada y salida de datos interactiva.
 
-##Personalización
+## Personalización
 
 - Puedes modificar los criterios para la selección de la "matriz mayor" en el código fuente.
 - Ajusta las restricciones de tamaño de las matrices para adaptarlas a diferentes requisitos.
 
-##Autor
+## Autor
 
 Este proyecto fue desarrollado como parte de un ejercicio práctico. No dudes en contribuir o realizar consultas para mejoras adicionales.
    
